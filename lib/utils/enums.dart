@@ -1,0 +1,1 @@
+enum HomeAppliances {led, extBoard}
